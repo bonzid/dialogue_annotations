@@ -1,0 +1,55 @@
+[00:10] medecin: Bonjour, Monsieur Colin. Je suis le Dr. Dupont, interne au service des urgences. Pour commencer, pourriez-vous me dire ce qui vous amène ici aujourd'hui ?
+[00:16] patient: Bonjour docteur. Je suis venu parce que j'ai eu un crachat de sang ce matin.
+[00:28] medecin: Je comprends, Monsieur Colin. Pouvez-vous me dire depuis combien de temps vous avez ces crachats de sang et s'il y a eu d'autres symptômes associés, comme de la toux ou des douleurs thoraciques ?
+[00:34] patient: C'est la première fois que j'ai craché du sang. J'ai une toux habituelle, mais pas de douleurs thoraciques.
+[00:40] medecin: Avez-vous remarqué si le sang était mélangé avec vos crachats habituels ou s'il était présent seul ?
+[00:44] patient: Le sang était présent seul, sans être mélangé avec mes crachats habituels.
+[00:50] medecin: Avez-vous des antécédents médicaux, comme des problèmes pulmonaires, des maladies cardiaques ou des antécédents de tabagisme ?
+[00:56] patient: Oui, j'ai une BPCO et je fume 20 cigarettes par jour depuis l'âge de 20 ans.
+[01:01] medecin: Avez-vous remarqué d'autres symptômes récents, comme de la fièvre à domicile ou des sueurs nocturnes ?
+[01:05] patient: Non, je n'ai pas remarqué de fièvre ni de sueurs nocturnes.
+[01:12] medecin: Avez-vous eu des douleurs dans une jambe, comme une douleur au mollet ou une grosseur dans la jambe ?
+[01:16] patient: Non, je n'ai pas de douleurs dans les jambes ni de grosseurs.
+[01:23] medecin: Merci pour ces précisions, Monsieur Colin. Pourriez-vous me dire quelle quantité de sang vous avez craché aujourd'hui ?
+[01:27] patient: J'ai craché une petite quantité, moins d'une cuillère à café.
+[01:34] medecin: Merci pour cette information. Avez-vous remarqué si le sang avait une couleur particulière, comme rouge vif ou brunâtre ?
+[01:36] patient: Le sang était rouge vif.
+[01:42] medecin: Avez-vous eu des vomissements récemment, ou avez-vous remarqué si l'effort de toux était synchronisé avec l'expectoration de sang ?
+[01:49] patient: Non, je n'ai pas eu de vomissements. L'effort de toux était bien synchronisé avec l'expectoration de sang.
+[01:53] medecin: Avez-vous des antécédents familiaux de cancer ou d'autres maladies respiratoires ?
+[01:57] patient: Non, je n'ai pas d'antécédents familiaux de cancer ou d'autres maladies respiratoires.
+[02:04] medecin: Merci, Monsieur Colin. Avez-vous des problèmes de santé récents, comme une infection ou un traitement immunosuppresseur ?
+[02:08] patient: Non, je n'ai pas de problèmes de santé récents ni de traitement immunosuppresseur.
+[02:15] medecin: Merci pour ces précisions. Avez-vous ressenti une dyspnée ou un essoufflement lors de vos activités quotidiennes récemment ?
+[02:19] patient: Oui, j'ai ressenti de l'essoufflement lors de mes activités quotidiennes.
+[02:25] medecin: Pouvez-vous me dire si cet essoufflement est survenu soudainement ou s'il s'est progressivement aggravé au fil du temps ?
+[02:28] patient: L'essoufflement s'est progressivement aggravé au fil du temps.
+[02:35] medecin: Avez-vous été exposé à des substances nocives, comme l'amiante, dans le cadre de votre travail ou de votre environnement ?
+[02:41] patient: Je ne sais pas, je n'ai pas été informé d'une exposition à des substances nocives comme l'amiante.
+[02:48] medecin: Pouvez-vous me parler de votre profession et des conditions de travail que vous avez eues au cours de votre carrière ?
+[02:57] patient: Je suis chauffeur routier et je passe beaucoup de temps sur la route, mais je ne pense pas avoir eu d'exposition à des substances nocives.
+[03:03] medecin: Merci pour ces précisions. Avez-vous déjà eu des épisodes antérieurs d'hémoptysie, même s'ils étaient moins importants ?
+[03:07] patient: Non, c'est la première fois que j'ai un crachat de sang.
+[03:14] medecin: Merci pour votre réponse, Monsieur Colin. Avez-vous des antécédents de prise de médicaments anticoagulants ou d'antiagrégants plaquettaires ?
+[03:18] patient: Non, je n'ai pas d'antécédents de prise de médicaments anticoagulants ou d'antiagrégants plaquettaires.
+[03:25] medecin: Avez-vous remarqué une altération de votre état général, comme de l'asthénie, une perte de poids ou une anorexie récemment ?
+[03:31] patient: Oui, j'ai une fatigue importante, un manque d'appétit et j'ai perdu environ 5 kg récemment.
+[03:40] medecin: Merci pour ces informations, Monsieur Colin. Avez-vous remarqué d'autres symptômes associés à cette fatigue, comme des troubles du sommeil ou des changements d'humeur ?
+[03:46] patient: Je ne sais pas, je n'ai pas vraiment remarqué de troubles du sommeil ou de changements d'humeur.
+[03:53] medecin: Merci pour votre réponse. Avez-vous eu des antécédents de maladies pulmonaires, comme de l'asthme ou une bronchite chronique ?
+[03:57] patient: Oui, j'ai une BPCO et je suis suivi en pneumologie au CHU.
+[04:04] medecin: Merci pour cette précision. Avez-vous des traitements en cours pour votre BPCO, comme des bronchodilatateurs ou des corticostéroïdes ?
+[04:09] patient: J'utilise des inhalateurs pour ma BPCO, mais je ne me souviens pas des noms.
+[04:17] medecin: Pouvez-vous me dire si vous avez eu des exacerbations récentes de votre BPCO ou si vous avez ressenti une aggravation de vos symptômes respiratoires ?
+[04:23] patient: J'ai 1 à 2 exacerbations de BPCO par an, mais je n'ai pas eu d'exacerbation récente.
+[04:34] medecin: Merci pour ces précisions. Étant donné votre âge, votre tabagisme et l'altération de votre état général, je suspecte un cancer pulmonaire. Avez-vous des questions ou des préoccupations à ce sujet ?
+[04:40] patient: Je suis inquiet à propos de ce que vous dites. Que devrais-je faire maintenant ?
+[04:50] medecin: Je comprends votre inquiétude, Monsieur Colin. Je vous propose de réaliser un examen complémentaire, comme un scanner thoracique, pour évaluer vos poumons plus en détail. Qu'en pensez-vous ?
+[04:56] patient: Oui, je pense que c'est une bonne idée. Je veux comprendre ce qui se passe.
+[05:04] medecin: Très bien, je vais organiser ce scanner thoracique. En attendant, avez-vous d'autres questions ou préoccupations que vous aimeriez aborder ?
+[05:08] patient: Non, je n'ai pas d'autres questions pour le moment. Merci.
+[05:19] medecin: Merci, Monsieur Colin. Je vais m'assurer que vous receviez les soins nécessaires rapidement. Je vous souhaite un bon courage et je vous tiendrai informé des résultats du scanner.
+[05:21] patient: Merci, docteur. Au revoir.
+[05:28] medecin: Au revoir, Monsieur Colin. Prenez soin de vous et n'hésitez pas à revenir si vous avez besoin d'aide.
+[05:30] patient: Merci, docteur. Au revoir.
+[05:37] medecin: Au revoir, Monsieur Colin. 

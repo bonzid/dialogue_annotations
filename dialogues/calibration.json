@@ -1,0 +1,12 @@
+{
+  "_instructions": "",
+  "annotator": "A0",
+  "timestamp": "2026-06-10T13:55:28.981Z",
+  "dialogue": {
+    "naturalness": 2,
+    "fluency": 4,
+    "coherence": 3
+  },
+  "ai_generated": "probablement_oui",
+  "remarks": "Beaucoup de \"Monsieur Colin\" et conclusion étrange"
+}

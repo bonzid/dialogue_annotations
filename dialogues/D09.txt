@@ -1,0 +1,112 @@
+medecin: Bonjour, je me présente, je suis le docteur Mardi Mai.
+medecin: Du coup est-ce que vous pouvez me rappeler votre nom, prénom, date de naissance s'il vous plaît ?
+patient: Moi, je m'appelle Mathieu Dupuis et mon fils il s'appelle Alexandre Dupuis et il est né le 15 février au 15 février 2020.
+medecin: Ok, ça marche.
+medecin: Alors du coup, je vais d'abord juste lire le mot de votre médecin et puis après je reviendrai à vous.
+medecin: Ok.
+patient: Alors Vous en pensez quoi, docteur ?
+medecin: Alors, du coup, je sais pas déjà si on vous a un petit peu expliqué, si on vous a parlé du diagnostic ou pas.
+patient: Mon médecin m'a parlé d'un potentiel autisme.
+medecin: Ouais est-ce que vous connaissez déjà quelque chose un petit peu là-dessus ?
+medecin: Vous avez des à priori là-dessus ou ?
+patient: pour moi c'est grave c'est les enfants qui sont en institution dans des centres c'est tout ce que pour moi ça m'évoque ça.
+medecin: Ok, ça marche.
+medecin: Alors du coup, l'autisme, en fait, ça peut être assez vaste.
+medecin: Ça peut être du coup quelque chose d'assez léger, comme quelque chose de beaucoup plus poussé, comme vous dites, qui pourrait nécessiter une scolarité un petit peu adaptée.
+patient: Ok.
+medecin: Là, apparemment, on n'en est pas encore là.
+medecin: Parce que du coup, là, il est en quelle classe ?
+patient: Et là, il a 4 ans, donc il est en petite section.
+medecin: Ok ok, il a commencé.
+medecin: Ça marche.
+medecin: Parce que du coup, l'autisme, en fait c'est quelque chose qui, chez lui, pour l'instant, ne nécessite pas de de placement en fait dans une école particulière.
+medecin: Parce que le but, c'est quand même de le maintenir le plus possible dans une dans une scolarité en fait on va dire traditionnelle.
+patient: D'accord.
+medecin: Parce que on sait que dans un milieu dans un milieu quand même plus dans un milieu ordinaire, ils sont quand même beaucoup plus en contact avec les enfants.
+medecin: Et c'est quand même la première intention avant de d'envisager quelque chose d'autre et de le mettre dans une école un peu plus spécialisée.
+patient: D'accord.
+medecin: Du coup, c'est un diagnostic souvent qu'on fait dans la petite enfance.
+medecin: Donc là, c'est le cas.
+medecin: Ça a tendance à des fois s'améliorer avec l'âge, quand l'enfant grandit.
+patient: D'accord.
+medecin: Il faut savoir que pour l'instant, c'est pas quelque chose qu'on va traiter, on va pas mettre en place de médicaments ou autre chose comme ça.
+patient: D'accord.
+medecin: C'est sûr que ça peut être assez particulier pour lui comme pour vous, parce qu'effectivement, vous avez dû le remarquer, il a des interactions un petit peu particulières, enfin des interactions diminuées finalement, un contact social un petit peu particulier.
+medecin: Il a du mal à se faire des amis, il a peut être aussi ou il aime bien rester tout seul.
+medecin: Jusque-là, est-ce que vous avez des questions ?
+patient: Non, jusque-là pas de questions.
+medecin: Ok.
+medecin: Du coup, ce qu'il faudra surveiller surtout chez Alexandre, c'est les difficultés scolaires.
+patient: Ok.
+medecin: Là, pour l'instant, il est un peu jeune, mais on peut quand même déjà surveiller les différentes acquisitions.
+patient: Ok
+medecin: Parce que peut-être que du coup c'est un enfant qui aura un peu plus de mal pour apprendre à lire ou à écrire, par exemple ou voilà.
+medecin: Donc, il faudra surveiller.
+medecin: Donc encourager au maximum du coup la scolarité en milieu ordinaire.
+medecin: On peut aussi envisager pour vous comme pour lui des groupes de patients, en fait des des groupes d'entraide ou des groupes un petit peu d'éducation thérapeutique pour que vous appreniez un petit peu à réagir on va dire correctement face à ces comportements des fois un petit peu perturbants ou voilà.
+medecin: Ou même pour lui, ça pourrait aussi lui faire du bien d'être dans des groupes de pairs, des groupes de soutien.
+medecin: Voilà. Est-ce que vous aviez des interrogations?
+patient: Oui, du coup, il y a eu quelques petits problèmes à l'accouchement.
+medecin: Oui.
+patient: Et on voulait savoir avec ma femme si ça pouvait être lié à ça ?
+medecin: Non, je pense que c'est pas lié.
+medecin: Je pense que l'accouchement, que ce soit à voix basse, césarienne, compliqué ou pas, c'est pas c'est pas quelque chose qui aurait déclenché l'autisme en fait.
+patient: D'accord.
+medecin: Donc non, je pense pas.
+medecin: Vous pouvez vous rassurer là-dessus.
+patient: Ok. On l'a fait vacciner aussi ?
+patient: Et on a lu des articles en quoi il y aurait un lien ?
+patient: Est-ce que vous pensez que ça pourrait être la vaccination aussi qui?
+medecin: Ok. Alors la vaccination, c'est vrai que souvent ça fait un petit peu débat, mais il y a pas de d'études qui reconnaît que l'autisme s'est favorisé par une quelconque vaccination.
+patient: D'accord.
+medecin: Du coup, est-ce que ça vous a un petit peu refroidi pour les éventuels futurs vaccins à faire ou pas ?
+patient: On voulais d'abord vous poser la question, mais après on vous fait confiance.
+patient: Si vous me dites qu'il n'y a pas de lien ?
+medecin: Non, il y a pas de lien.
+medecin: Donc si vous êtes d'accord, on peut continuer les vaccins sous le calendrier en vigueur.
+patient: Bien sûr.
+medecin: Donc si ça vous va, non, c'est pas lié normalement.
+patient: Et c'est une maladie génétique, l'autisme ?
+medecin: Vous voulez savoir si ça se transmet éventuellement ?
+patient: Oui si jamais on fait un deuxième enfant, est-ce qu'il y a d'autres risques qui soit ?
+medecin: Alors, je pense pas.
+medecin: Après, peut-être comme vous avez eu un premier enfant qui a atteint d'autisme, peut-être que vous avez un risque un tout petit peu plus élevé que le deuxième il le soit aussi.
+medecin: Mais il y a pas de de certitude et c'est pas quelque chose de systématique.
+medecin: Ça va pas se transmettre forcément à tous vos enfants.
+patient: D'accord.
+medecin: Et c'est quand même quelque chose d'assez sporadique.
+patient: Ok.
+medecin: Puis pareil, lui aussi, plus tard, s'il a des enfants, ça veut pas dire qu'il aura des enfants atteints d'autisme.
+medecin: Donc, il y a pas de il n'y a pas forcément de de généralité.
+patient: D'accord.
+patient: Donc du coup, vous pensez oui il pourra avoir des enfants plus tard ?
+patient: Il va bien s'en sortir dans la vie ?
+medecin: Oui, oui, je pense que il y a il y a pas de soucis.
+medecin: En fait, c'est quelque chose d'assez particulier au début, surtout que là, vous découvrez.
+medecin: Mais oui, oui, il pourra avoir une vie tout à fait ordinaire.
+medecin: Il pourra avoir des enfants.
+medecin: Enfin, il y a pas de souci.
+medecin: C'est juste qu'effectivement, au niveau du contact et des interactions, ça va être un peu particulier.
+medecin: Mais bon, après, comme je vous l'ai dit, on peut très bien vivre avec.
+medecin: Et puis souvent, en grandissant, ça peut s'amender un petit peu, surtout avec ce qu'on peut mettre en place à côté pour l'aider quoi.
+patient: D'accord.
+medecin: Voilà.
+patient: Ok.
+patient: Et c'est pas un peu tard ?
+patient: On avait peur aussi de ça avec ma femme, que ce soit un peu tard pour consulter, si on avait pu venir avant ? Est-ce que...
+medecin: Déjà, avant, vous auriez peut-être pas pu le voir, je pense.
+patient: D'accord.
+medecin: Parce qu'il faut quand même attendre les premières acquisitions au niveau du langage et au niveau de comment des interactions avec les l'entourage pour voir que effectivement, il y a peut-être un petit problème.
+medecin: Et avant 4 ans, je pense que de toute façon, vous ne l'auriez pas vu.
+patient: D'accord.
+medecin: Donc, vous pouvez vous rassurer, il y a pas de vous avez pas perdu de temps en attendant...
+patient: D'accord.
+medecin: Non.
+patient: Ok.
+medecin: Est-ce que du coup vous auriez éventuellement besoin d'une deuxième consultation pour qu'on en parle avec votre compagne qui n'est pas là ?
+patient: Oui, volontiers oui.
+medecin: Ouais. Comme elle n'a pas pu venir, si vous voulez, comme ça on pourra en reparler et puis.
+medecin: D'ici là, si vous avez d'autres questions ou voilà...
+patient: Pour l'instant, vous avez répondu à toutes mes questions.
+medecin: Alors je sais pas si vous avez prévu de de l'inscrire au sport ou quoi, mais ça pourrait être bien aussi.
+patient: Ok.

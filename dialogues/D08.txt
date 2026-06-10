@@ -1,0 +1,42 @@
+[00:10] medecin: Bonjour. Je suis le Dr ECOS, interne de garde ici aux urgences. Pourriez-vous me donner votre nom, votre prénom et votre date de naissance, s'il vous plaît ?
+[00:20] patient: Je ne sais pas ce que je fais là, je vais très bien docteur ! Je m'appelle Julie Dupont et je suis née le 27 septembre 2003.
+[00:31] medecin: Julie, votre maman est inquiète car elle a l'impression que vous avez des idées un peu particulières en ce moment, pourriez-vous m'expliquer ce que vous entendez par votre projet de réformer le monde ?
+[00:40] patient: Ma mère ne comprend rien, c'est tout. J'ai simplement reçu des révélations, je suis choisie par Dieu pour sauver la Terre et réussir financièrement.
+[00:51] medecin: C'est un projet ambitieux, Julie ; est-ce que vous entendez des voix ou avez-vous l'impression que des messages vous sont adressés personnellement, par exemple à travers la télévision ou internet ?
+[01:02] patient: Ce ne sont pas des messages à la télé, ce sont des voix de gens que je ne connais pas qui viennent de l'extérieur. C'est de la télépathie, on m'envoie des révélations.
+[01:11] medecin: Je comprends, ces voix semblent très présentes. Est-ce que vous prenez actuellement un traitement médical ou avez-vous consommé de l'alcool ou du cannabis ces derniers jours ?
+[01:22] patient: Je ne prends aucun traitement, je suis protégée par Dieu. Pour le cannabis, j'en fume régulièrement, mais c'est vrai que j'ai un peu abusé il y a une semaine.
+[01:33] medecin: D'accord, je vois. Est-ce que, dans votre famille, il y a des personnes qui ont déjà souffert de troubles psychiatriques ou qui ont été suivies pour des problèmes de santé mentale ?
+[01:39] patient: Mon grand-père paternel avait des troubles bipolaires, mais il est décédé il y a deux mois.
+[01:48] medecin: Je suis désolé pour votre grand-père. Est-ce que vous vous sentez particulièrement agitée ou avez-vous l'impression que vos pensées défilent plus vite que d'habitude ces derniers jours ?
+[01:57] patient: Tout va très bien, je n'ai jamais été aussi performante au travail. Je suis une leader, je sais exactement comment gérer les enjeux de pouvoir.
+[02:06] medecin: C'est noté, Julie. Pour mieux comprendre votre situation, est-ce que vous avez remarqué des changements dans votre sommeil ou votre appétit ces derniers temps ?
+[02:16] patient: Je n'ai pas besoin de beaucoup dormir en ce moment, j'ai trop de choses à accomplir pour sauver la Terre. Mon appétit est normal, tout va bien.
+[02:28] medecin: D'accord, je comprends. Avez-vous déjà été suivie par un psychiatre ou un psychologue par le passé, ou avez-vous déjà eu des problèmes de santé neurologiques, comme des crises d'épilepsie ou des traumatismes crâniens ?
+[02:34] patient: Non, jamais de psychiatre. J'ai juste eu une méningite quand j'étais enfant, mais c'est tout.
+[02:44] medecin: Très bien, je vous remercie pour ces précisions. Je vais maintenant faire le point avec mon chef de service pour discuter de la suite de votre prise en charge.
+[02:49] patient: C'est inutile, je vous dis que je vais très bien. Merci et au revoir.
+[03:01] medecin: Je comprends votre point de vue, Julie, mais je dois tout de même discuter de votre situation avec mon supérieur pour m'assurer que tout est en ordre. Je reviens vers vous très rapidement.
+[03:05] patient: Faites comme vous voulez, mais vous perdez votre temps. Au revoir.
+[03:36] medecin: Monsieur le chef de garde, je vous présente Julie Dupont, 22 ans, amenée par sa mère pour un syndrome délirant d'allure mystique et mégalomaniaque évoluant depuis plusieurs jours. La patiente présente un délire de mission divine, des hallucinations auditives télépathiques, une désorganisation de la pensée et une diminution du besoin de sommeil, sans antécédent psychiatrique personnel mais avec un terrain familial de trouble bipolaire. Elle rapporte une consommation régulière de cannabis, avec un usage récent accru, et a des antécédents de méningite dans l'enfance, sans autre pathologie neurologique connue.
+[03:44] patient: Vous parlez de moi comme si je n'étais pas là, c'est très impoli. Je vous demande de me respecter un peu plus.
+[04:00] medecin: Je vous présente mes excuses, Julie, ce n'était pas mon intention de vous exclure de la conversation. Je termine simplement de faire le point avec mon collègue pour organiser au mieux votre prise en charge ici, et je reviens vers vous immédiatement pour discuter de la suite.
+[04:05] patient: C'est bon, j'ai compris. Je vous attends, mais ne traînez pas trop.
+[04:18] medecin: Je vous remercie de votre patience, Julie. Je vais maintenant m'isoler un instant avec mon chef de service pour décider de la meilleure orientation pour vous, et je reviens vous voir très rapidement pour vous expliquer la suite.
+[04:24] patient: Très bien, faites donc. Je reste là, de toute façon je n'ai rien d'autre à faire.
+[04:36] medecin: Julie, avant que je ne m'absente, j'aimerais juste savoir comment vous vous sentez sur le plan de votre humeur : vous sentez-vous plutôt joyeuse, euphorique, ou au contraire irritable et tendue en ce moment ?
+[04:45] patient: Je me sens parfaitement bien, tout est clair pour moi. Je ne suis ni triste ni euphorique, je suis juste dans ma mission.
+[04:59] medecin: Julie, avec tout ce que vous vivez en ce moment, est-ce qu'il vous arrive parfois de vous dire que tout cela est peut-être un peu trop lourd à porter, au point d'avoir des idées noires ou de vouloir mettre fin à vos jours ?
+[05:07] patient: Pourquoi vous me demandez ça ? Je n'ai aucune raison de vouloir mourir, j'ai une mission à accomplir pour sauver la Terre.
+[05:23] medecin: Je comprends, votre mission semble être votre priorité absolue. Pour être tout à fait complet dans mon évaluation, est-ce que vous arrive-t-il parfois de vous sentir décalée par rapport aux autres, ou avez-vous l'impression que vos idées pourraient être perçues comme étranges par votre entourage ?
+[05:31] patient: C'est surtout les autres qui sont décalés, ils ne comprennent rien à ce que je leur dis. Ils sont insupportables.
+[05:45] medecin: Je comprends que vous vous sentiez incomprise par votre entourage. Pourriez-vous me dire si, parfois, il vous arrive de rire ou de sourire sans raison particulière, ou si vous avez l'impression que vos pensées se bloquent soudainement au milieu d'une phrase ?
+[05:55] patient: Je ne vois pas de quoi vous parlez, je suis très cohérente. Et si je souris, c'est parce que je sais des choses que vous ignorez.
+[06:09] medecin: Je comprends, Julie. Pour terminer, est-ce que vous avez parfois l'impression que vos pensées sont comme interrompues brutalement, comme si quelqu'un vous les coupait, ou est-ce que vous vous sentez capable de mener vos réflexions jusqu'au bout sans difficulté ?
+[06:15] patient: Mes pensées sont limpides, c'est juste que parfois je reçois des révélations qui demandent toute mon attention.
+[06:26] medecin: Je vous remercie pour ces précisions, Julie. Je vais maintenant m'adresser à mon chef de garde pour faire la synthèse de notre entretien et décider de la suite de votre prise en charge.
+[06:30] patient: Très bien, faites donc. Merci docteur, au revoir.
+[06:57] medecin: Monsieur le chef de garde, je vous présente Julie, 22 ans, reçue pour un syndrome délirant aigu à thématique mystique et mégalomaniaque, avec une conviction inébranlable et une absence de critique. On note une désorganisation comportementale, une diminution du besoin de sommeil, une humeur expansive, et une absence d'idées suicidaires. Elle n'a pas d'antécédents psychiatriques personnels, mais un terrain familial de trouble bipolaire et un antécédent de méningite, avec une consommation de cannabis à explorer.
+[07:06] patient: Vous parlez de moi comme si je n'étais pas là, c'est très impoli. Je vous ai déjà dit que je n'ai rien à faire ici !
+[07:22] medecin: Je vous présente mes excuses, Julie, je comprends que cela puisse être désagréable. Pour terminer mon évaluation, j'aimerais savoir si vous avez l'impression que certaines personnes cherchent à vous nuire ou à vous empêcher d'accomplir votre mission, et si vous vous sentez parfois menacée par votre entourage ? 
+[07:56] patient: Personne ne peut m'empêcher d'accomplir ma mission, mais mon entourage est juste incapable de comprendre ma grandeur. Je n'ai pas de temps à perdre avec vos théories, je m'en vais. Merci et au revoir.

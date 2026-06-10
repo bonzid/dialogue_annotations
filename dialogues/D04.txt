@@ -1,0 +1,78 @@
+[0:00] medecin: C'est la remplaçante de Dr Février. C'est la première fois qu'on se voit. Est-ce que vous pouvez me rappeler votre nom, prénom et date de naissance?
+[0:05] patient: Je m'appelle Frédérique Dumont et j'ai 42 ans.
+[0:08] medecin: D'accord. Donc, qu'est-ce qui vous amène aujourd'hui?
+[0:10] patient: Alors, je viens vous voir parce que j'aimerais que vous me prolongiez mon arrêt de travail. J'ai eu un lumbago il y a presque deux semaines et j'avais vu le docteur Février. Il m'avait mis en arrêt jusqu'à hier. Mais là, c'est difficile. Je ne peux pas y retourner. Ca commence seulement à aller mieux. Du coup, j'ai peur que ça revienne.
+[0:24] medecin: D'accord. C'était... Vous vous étiez fait ça comment? C'est l'accident de travail. Vous faites quoi dans la vie déjà
+[0:29] patient: Je suis aide-soignante en pédiatrie et c'est en ramassant un drap, en fait. Je me suis bloquée.
+[0:33] medecin: ? Donc, du coup, il y avait eu un accident de travail.
+[0:37] patient: Oui.
+[0:37] medecin: Ok. Et donc, vous m'avez dit que ça se terminait hier. Et au niveau de la douleur, si vous pouvez me la décrire un petit peu, la localisation.
+[0:46] patient: Alors, c'est en bas du dos.
+[0:48] medecin: D'accord. Ça irradie dans les jambes ou quoi? Il n'y a pas de déficit au niveau des membres inférieurs. Il n'y a pas ce genre de choses. Ok. Il y a des choses qui aggravent la douleur?
+[0:57] patient: Oui, quand je reste debout.
+[0:59] medecin: debout longtemps. Donc, pour le travail. Ou que je porte des charges. Des charges. Ok. Et des choses à l'inverse qui ont amélioré les choses?
+[1:07] patient: Non, je n'ai pas l'impression.
+[1:07] medecin: Même les antalgiques que vous avez pris. Parce que j'ai vu que vous avez prescrit du doliprane et puis des anti-inflammatoires.
+[1:13] patient: Oui, je suppose que ça a fonctionné.
+[1:15] medecin: Oui, quand même, vous trouvez une amélioration. D'accord.
+[1:16] patient: Oui, oui, je trouve qu'il y a une amélioration.
+[1:17] medecin: D'accord.
+[1:19] patient: La douleur du début, elle a bien diminué depuis l'arrêt.
+[1:21] medecin: D'accord. Et du coup, sur une échelle de 1 à 10, vous noteriez à combien votre douleur? 1, pas de douleur supportable et puis 10, la douleur la plus importante.
+[1:28] patient: 1 sur 10 en fond et des fois, j'ai des épisodes à 4 sur 10. Quand je fais des mouvements, par exemple.
+[1:34] medecin: C'est vraiment à l'effort, on va dire à l'effort, au mouvement, à la mobilisation. 
+[1:36] patient: Oui, un peu plus.
+[1:38] medecin: Et la nuit, est-ce que ça vous réveille?
+[1:40] patient: C'est pas les douleurs. Non, ce n'est pas les douleurs qui me réveillent.
+[1:45] medecin: Il n'y a pas de... Ok. 
+[1:46] patient: Je ne me réveille pas, quoi. 
+[1:48] medecin: Donc, pas plus la nuit, c'est vraiment plutôt à l'effort. Et le matin, au réveil, la douleur, elle est déjà présente directement? Ou?
+[1:55] patient: Elle est tout le temps là. 
+[1:57] medecin: Tout le temps là. Ok. D'accord. Donc, on a dit, il n'y a pas d'irradiation, il n'y a pas de sensation de brûlure, de picotement dans les jambes, de sensation. C'est vraiment juste la douleur au niveau du dos. Et est-ce qu'il y a d'autres symptômes, des nausées, des vomissements? Des maux de tête? Non, rien. Ce genre de choses, il n'y a pas.
+[2:17] patient: Non.
+[2:19] medecin: Ok, et du coup, au niveau du quotidien, si vous pouvez m'expliquer un peu cette douleur au niveau de l'impact, donc au niveau du sommeil, est-ce qu'il y a un impact déjà?
+[2:27] patient: Non, non, non. Non, ça me fait que j'ai pas mal la nuit. Je dors. Ça va, quoi.
+[2:31] medecin: Ok. Et pour, du coup, là, vos activités de la vie quotidienne, je ne sais pas si vous avez des enfants, tout ça.
+[2:35] patient: Oui, j'ai trois enfants et je ne fais rien. C'est mon conjoint qui gère.
+[2:39] medecin: Là, ça vous a... Alors, vous ne faisiez pas ça avant, quoi. Là, ça vous a immobilisé du fait de cette... 
+[2:44] patient: Oui, je ne sais pas. Oui, je pense.
+[2:47] medecin: D'accord. Vos enfants, ils sont en bas âge?
+[2:49] patient: 3 et 10 ans. En fait, j'en ai que deux.
+[2:51] medecin: D'accord. Donc, ouais au niveau du quotidien, là, même pour vous laver, tout ça, vous arrivez toute seule quand même? Pour vous déplacer, vous arrivez à marcher,
+[3:00] patient: Oui, oui, oui.
+[3:01] medecin: il n'y a pas d'aide? 
+[3:02] patient: Non, non, 
+[3:03] medecin: ça, ça va. Ok. Donc, au niveau quand même des activités quotidiennes, c'est plus compliqué. Vous m'avez dit, vous ne marchez plus... vous marchez quand même? Ou pas?
+[3:09] patient: Oui, si, si, je marche.
+[3:10] medecin: Est-ce que vous faites du sport, une activité physique?
+[3:12] patient: Pas du tout, j'ai arrêté le judo il y a 10 ans.
+[3:14] medecin: Ok, vous n'avez pas repris... Non. D'accord. Est-ce que vous avez fait des séances de kiné déjà dans votre vie?
+[3:19] patient: Non, je ne crois pas.
+[3:20] medecin: Jamais. D'accord. Ok. Et du coup, au niveau de votre... et aussi au niveau du moral, comment ça impacte au niveau de la douleur?
+[3:30] patient: Ben, actuellement, c'est vrai que le moral, ce n'est pas trop ça, quoi. Je suis un peu stressée parce que j'ai des soucis à la maison et au travail.
+[3:37] medecin: D'accord. Vous voulez m'en parler un petit peu des soucis que vous avez rencontrés?
+[3:41] patient: Oui, par exemple, à la maison, avec mon mari, c'est compliqué. On est en plein divorce.
+[3:46] medecin: D'accord. Donc, il y a un contexte un petit peu aussi... Oui. D'accord. Et pareil, vous n'avez jamais vu de psychologue, ce genre de choses pour parler? Vous seriez intéressée pour... 
+[3:48] patient: Oui, pourquoi pas. 
+[3:49] medecin: D'accord. Ok. Donc, au niveau de la reprise du travail, vous qu'est-ce qui vous gêne le plus au quotidien actuellement? C'est vraiment cette douleur? C'est plutôt le contexte, le moral qui pose problème
+[4:12] patient: Un tout, je pense, mais c'est surtout que j'ai peur de continuer à avoir mal si je reprends le travail.
+[4:17] medecin: ? D'accord.
+[4:17] patient: Comme ça va mieux.
+[4:18] medecin: Et au travail, ça se passait bien?
+[4:20] patient: Oui, avec mes collègues, ça se passe bien. On s'entraide, mais c'est vrai que des fois, c'est un peu compliqué par rapport au manque de personnel ou ce genre de choses.
+[4:30] medecin: Je comprends tout à fait. Ok. Donc, du coup, au niveau des choses que je peux vous proposer... Alors, je vais regarder si j'avais toutes les informations. Donc, vous m'avez dit quand même, le doliprane et les anti-inflammatoires, ça avait fait quand même de l'effet.
+[4:47] patient: Mais là, je n'ai plus d'anti-inflammatoires et sinon, je prends du Dolipra une à deux fois par jour.
+[4:51] medecin: D'accord. Il n'y a pas d'allergie médicamenteuse? Ça fait combien de temps, du coup, que vous prenez les anti-inflammatoires, le doliprane, tout ça?
+[4:58] patient: Deux semaines.
+[4:58] medecin: Deux semaines. Ok.
+[5:00] patient: Mais je vous dis, là, les anti-inflammatoires, j'en prend plus.
+[5:02] medecin: Et il n'y a pas d'automédication due à la douleur, d'autres traitements que vous prenez, hormis ceux qui ont été prescrits par le docteur Février? 
+[5:04] patient: Non. Non, 
+[5:05] medecin: il n'y a pas d'autre chose comme ça. Ok. Donc, au niveau des mesures, un petit peu, que je peux vous proposer, là, dans le contexte. Donc, là, je pense qu'il y a quand même aussi une partie un petit peu d'émotionnel qui rentre en jeu. Donc, vous m'avez dit, vous êtes quand même... Vous ne seriez pas contre discuter avec une psychologue, surtout si vous n'avez jamais initié de suivi. Ce serait pas mal de commencer. Ça fait toujours du bien de parler, de se confier, surtout là, dans le contexte de divorce, dans votre vie personnelle, si c'est un petit peu compliqué. Au niveau de la douleur, vu que quand même, elle passe... Vu que la douleur, elle ne passe pas vraiment, on pourrait imaginer quand même faire une petite imagerie au niveau lombaire,
+[5:59] patient: Ok,
+[6:00] medecin: donc scanner ou IRM, pour voir quand même qu'il n'y ait pas une cause, on va dire, un peu plus grave de la douleur. Donc, vous aviez déjà eu le certificat médical initial d'accident de travail. Moi, je vais quand même vous prolonger l'arrêt de travail, parce que dans le contexte d'aide soignante, où vous êtes quand même tout le temps debout, que la douleur n'est pas passée, on va prolonger l'arrêt de travail déjà pour deux semaines, et puis on se reverra au décours pour voir un petit peu l'évolution. Donc, prise en charge. La kiné, vous m'avez dit, vous n'en avez jamais fait.
+[6:31] patient: non, je ne crois pas.
+[6:32] medecin: Donc, vu aussi que vous ne faites pas trop d'activités physiques à la base, vraiment, le meilleur traitement pour le dos, on pourrait dire que c'est l'immobilisation, mais en fait, c'est tout l'inverse. Il faut vraiment essayer de marcher au maximum et puis faire une activité physique.
+[6:43] patient: Ok,
+[6:43] medecin: Quelques séances de kiné qui pourraient essayer de, en fonction de votre douleur, quoi.
+[6:47] patient: Ok.

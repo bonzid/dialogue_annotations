@@ -1,0 +1,173 @@
+medecin: Bonjour, je me présente, je suis docteur ECOS, je suis interne de garde aux urgences.
+medecin: Je vais juste d'abord vérifier votre nom, votre prénom, votre date de naissance.
+patient: Je suis Julie Dupont et je suis née le 5 janvier 2002.
+medecin: D'accord, ok.
+medecin: Est-ce que vous pouvez m'expliquer un peu ce que vous faites ici aujourd'hui ?
+patient: Moi, je ne comprends pas trop.
+patient: En fait, c'est ma mère qui m'a amenée, mais moi, je vais très bien.
+medecin: D'accord.
+medecin: Donc pour vous, vous allez bien.
+medecin: C'est votre mère qui vous a dit de venir, c'est ça ?
+patient: Oui, c'est ça.
+medecin: Ok.
+medecin: Donc déjà, dans un premier temps, je vais reprendre un peu vos antécédents.
+medecin: Et puis après, on reparlera un petit peu de ce qui vous amène aujourd'hui.
+patient: D'accord.
+medecin: Est-ce que vous avez des antécédents médicaux particuliers ?
+patient: Écoutez, je n'ai pas de... pas d'antécédents...
+medecin: Ok.
+patient: ...particuliers.
+patient: Enfin, vous voulez dire quoi par là ?
+medecin: Est-ce que vous avez des problèmes au niveau médical, c'est-à-dire cardiaque, neurologique, des problèmes au niveau des reins, problèmes au niveau des foies, problèmes au niveau du poumon ?
+patient: Non.
+medecin: Non, pas de problème de ce type-là.
+medecin: D'accord, ok.
+medecin: Est-ce que vous avez déjà été opéré ?
+patient: Non, si, les dents de sagesse.
+medecin: Ok.
+medecin: Est-ce que vous prenez des traitements au quotidien ?
+patient: Non, je ne prends pas de... pas de traitement, non.
+medecin: D'accord, aucun médicament, pas de contraception, pas de...
+patient: Non, non, j'ai un stérilet juste.
+medecin: Ok, d'accord.
+medecin: Est-ce que vous prenez... vous avez des allergies ?
+patient: Non.
+medecin: Est-ce que vous consommez du tabac ?
+patient: Ah oui.
+medecin: Est-ce que vous pouvez me dire à peu près en quantité combien vous en consommez ?
+patient: Oui, un paquet par jour.
+medecin: Ok.
+medecin: Est-ce que vous consommez de l'alcool ?
+patient: Oui, ça m'arrive.
+medecin: C'est quoi ?
+patient: A peu près combien de fois par semaine, par jour ?
+medecin: Une fois par semaine.
+medecin: D'accord, donc assez occasionnellement, quoi.
+patient: Oui.
+medecin: Ok.
+medecin: Est-ce que vous consommez des drogues ?
+patient: Ouais.
+medecin: Type cannabis, type drogue dure, héroïne, ce genre de choses ?
+patient: Cannabis ouais.
+patient: Cannabis, ok, c'est assez fréquent ?
+patient: Euh, ouais, 12 joints par semaine, à peu près.
+medecin: D'accord, ok.
+medecin: Euh, d'accord.
+medecin: Vous faites quoi dans la vie ?
+patient: Oh Julie, oui oui, t'es super, Julie, oui oui...
+medecin: Ok.
+patient: d'accord oui bah oui c'est ça...
+patient: Comment ? Excusez-moi.
+patient: Qu'est ce que vous faites quoi dans la vie ?
+patient: Je suis commerciale.
+medecin: Ok.
+medecin: Donc on va revenir un peu sur ce qui vous amène ici aujourd'hui.
+medecin: Du coup, vous êtes adressée ici par votre mère, qui dit que depuis quelques temps, vous avez des propos qui sont assez incompréhensibles, donc depuis plusieurs jours.
+medecin: Et, donc... vous avez parlé de plans pour réformer le monde et le faire à l'image de lui pour Dieu.
+patient: Oui.
+patient: Oui, c'est ça.
+medecin: Ok, est-ce que vous pouvez m'en parler un petit peu plus ?
+medecin: Vous pouvez m'expliquer ?
+medecin: En fait, mais écoutez, il y a une semaine, j'ai eu une sorte de révélation.
+medecin: Ok.
+patient: En fait, j'ai compris que j'étais vraiment envoyée par Dieu.
+patient: Je suis une sorte de prophète, si vous voulez.
+medecin: Ok.
+patient: Et en fait, j'ai compris que j'étais à une commerciale extraordinaire.
+medecin: Ok.
+patient: Et je comprends tout dans les dynamiques des relations, dans la perception des enjeux de pouvoir.
+patient: Et j'ai la mission de sauver le monde.
+medecin: Ok.
+medecin: Et il y a quelque chose qui vous... Qu'est-ce qui vous fait dire ça ?
+medecin: Il y a eu un élément déclencheur ? quelque chose ?
+medecin: Il y a ... Qu'est-ce qui a déclenché cette révélation chez vous ?
+patient: Ah, je ne sais pas.
+patient: Je sais qu'il y a une semaine, j'ai beaucoup fumé, alors là ...
+medecin: Ok.
+patient: vraiment les joints, ça y allait.
+medecin: Ok.
+patient: Mais sinon, je ne sais pas.
+patient: Ok, ok.
+patient: Du coup, là, vous avez déjà eu des problèmes psychiatriques par le passé ?
+medecin: Des problèmes de dépression ?
+medecin: Des problèmes de..., d'autres choses ?
+patient: Ah non, non.
+medecin: Ok.
+medecin: C'est la première fois que ça vous arrive, ce genre de révélations ?
+medecin: Ou vous en avez déjà eu par le passé ?
+patient: Non, jamais.
+medecin: Ok.
+medecin: Donc là, vous vous sentez plutôt bien.
+medecin: Vous vous sentez assez contente, assez exaltée même, je dirais.
+patient: Oui, je suis contente.
+medecin: Ok.
+medecin: Ok.
+medecin: Vous avez... est ce que vous avez des ... est-ce que vous voyez des choses ?
+medecin: Est-ce qu'il y a quelque chose que vous voyez, que vous entendez ?
+patient: Là, on entend les voix qui... qui parlent.
+medecin: D'accord, vous entendez quelque chose.
+medecin: Ok.
+patient: Mais je ne vois rien.
+medecin: Non, vous ne voyez rien ?
+patient: Mais on les entend par contre.
+medecin: Ok.
+medecin: Et est-ce que dans votre corps, vous sentez quelque chose qui vous gêne, quelque chose qui semble différent que d'habitude ?
+patient: Non, je suis au top.
+medecin: Ok.
+patient: Donc là, vous êtes vraiment au top.
+medecin: Ok.
+medecin: Donc là, vous êtes vraiment au top.
+patient: Ok, d'accord.
+medecin: Euh...
+medecin: D'accord, vous, vous ne comprenez pas pourquoi vous êtes ici.
+medecin: Est-ce qu'il y a d'autres choses ?
+medecin: Est-ce que la nuit, vous arrivez à bien dormir ?
+medecin: Est-ce que vous entendez aussi des voix la nuit ?
+medecin: C'est tout le temps ?
+medecin: C'est plutôt le jour ?
+medecin: Plutôt la nuit ?
+patient: J'entends des voix de temps en temps, mais comme tout le monde en fait.
+patient: Non, je dors bien la nuit.
+patient: Ok.
+medecin: Donc ça, ça ne fait que depuis quelques jours.
+medecin: Et comme vous m'avez dit, ça ne vous est jamais arrivé auparavant.
+patient: Non.
+medecin: Ok.
+medecin: Euh...
+medecin: Et vous, vous aviez... Qu'est-ce que vous entendez par réformer le monde ?
+medecin: Qu'est-ce que vous devriez faire ?
+medecin: Qu'est-ce qu'il vous demande de faire ?
+patient: De sauver le monde. C'est cette mission.
+medecin: D'accord.
+medecin: Et vous avez un projet pour ça ? ou ...?
+patient: Oh bah écoutez, c'est... C'est en...
+medecin: C'est en cours.
+patient: Ça débute, oui c'est en cours.
+medecin: D'accord.
+medecin: Vous n'avez pas du tout d'idée suicidaire ou de choses comme ça ?
+medecin:  Vous êtes vraiment...
+patient: Non, non, non.
+medecin: Vous n'avez pas... Ok. Pas de... Donc c'est vraiment... Là, vous vous sentez très exaltée et prête.
+medecin: Ok.
+medecin: Vous avez l'impression que Dieu vous a parlé alors ?
+patient: Oui.
+medecin: Et du coup, par quel biais, par quel moyen ?
+patient: J'ai l'impression, c'est une sorte de révélation.
+patient: Après, c'est les voix surtout qui me le disent.
+medecin: Ok, d'accord.
+medecin: Du coup, je vais appeler mon chef, je vais prendre mon téléphone.
+patient: D'accord.
+medecin: Donc, je vais appeler le chef.
+medecin: Je fais bonjour, je me présente, je suis interne de garde aux urgences.
+medecin: Je vous appelle par rapport à la patiente, on va dire Madame X, 22 ans, qui a été adressée par sa mère pour des propos incompréhensibles depuis plusieurs jours.
+medecin: Donc du coup, le contexte, c'est une patiente de 22 ans, sans antécédents psychiatriques, sans antécédents médicaux, qui a juste une contraception, qui se présente pour un premier épisode, donc là, qui a l'air que depuis quelques jours, donc on peut parler d'épisode psychotique bref, ou un épisode délire.
+medecin: Un épisode psychotique bref pour le moment.
+medecin: Elle dit, elle a des symptômes positifs comme entendre des voix, elle entend des voix, elle a l'impression qu'il y a une espèce de personnification de Dieu, donc une image de référence à Dieu.
+medecin: elle souhaite réformer le monde, donc elle a un plan pour ça, elle a l'air d'humeur très exaltée, donc voilà, il n'y a pas d'idées suicidaires, il n'y a pas de signe de dépression, il n'y a pas de signe au niveau médical aussi, il n'y avait pas de signe d'infection, elle est apyrétique, la tension artérielle est correcte, la fréquence cardiaque est normale, donc vraiment ça a l'air d'être un épisode de psychotique bref, donc elle aussi, le contexte, c'est une consommatrice de tabac et de cannabis...
+medecin: Et ça a commencé suite à une grosse prise de cannabis.
+medecin: Donc ça pourrait expliquer un petit peu aussi le déclenchement de cette crise.
+medecin: Enfin, j'ai dit, elle entend des voix...
+medecin: Voilà.
+medecin: Bonne journée à vous.
+medecin: Je reste à votre disposition si besoin pour des renseignements supplémentaires.
+medecin: Bonne journée.

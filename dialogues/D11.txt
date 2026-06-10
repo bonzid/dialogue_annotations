@@ -1,0 +1,82 @@
+medecin: Bonjour, donc je suis le docteur ECOS, je suis pédiatre, on ne s'est encore jamais vu.
+medecin: Est-ce que vous pouvez me donner votre nom, prénom, votre date de naissance s'il vous plaît ?
+patient: Oui, bonjour, alors je suis le papa du coup de Alexandre, qui a 4 ans.
+medecin: D'accord, donc vous êtes monsieur Dupuis, c'est ça ?
+patient: C'est ça.
+medecin: D'accord.
+medecin: Alors, je vois que j'ai la lettre du médecin traitant que je vais lire.
+medecin: Merci, c'était bien de le recevoir, monsieur.
+medecin: Premier enfant du couple, pas d'antécédents familiaux, la grand-sœur est non-incidentée, né par voie basse, un accouchement un peu difficile, d'accord.
+medecin: De plus, le développement, la stature oponérale est normale, pas de soucis de santé.
+medecin: D'accord.
+medecin: Les acquisitions à peu près normalement sur le plan psychomoteur, mais comportement social avec des interactions souvent pauvres.
+medecin: D'accord.
+medecin: Quand il est joyeux ou en colère, il fait un geste de battement de haut en bas avec ses deux mains.
+medecin: Depuis l'entrée à l'école.
+medecin: D'accord.
+medecin: Des différences avec les autres enfants.
+medecin: Il réagit pas à son prénom.
+medecin: Il montre pas les objets.
+medecin: Il ne joue pas du tout avec les autres enfants, préfère jouer à ses jeux de construction seul.
+medecin: Il a une tolérance très basse à l'imprévu et au changement.
+medecin: Ils peuvent le mettre dans des colères folles.
+medecin: Solliciter mon expertise pour évaluer les préoccupations et explorer la possibilité de diagnostic d'autisme.
+medecin: Qui est également suspecté par l'équipe pédagogique de l'école.
+medecin: D'accord.
+medecin: Ok.
+medecin: Donc, et là je relis juste, on a terminé l'examen. 
+medecin: Et la discussion, ok.
+medecin: D'accord, donc.
+medecin: Donc quand vous étiez venu c'était sur avis du médecin traitant, et vous avez.
+medecin: Est-ce qu'il vous avait déjà expliqué un petit peu ce qu'on, pourquoi il vous envoyait chez moi ?
+patient: Oui, il m'a expliqué un petit peu, je voulais savoir, enfin, je voulais savoir un petit peu ce que vous en pensez, si c'était vraiment un autisme.
+medecin: D'accord, donc voilà, on vous a déjà parlé d'autisme, ce n'est pas la première fois.
+medecin: Est-ce que vous, déjà, vous avez des craintes, des représentations ?
+medecin: Quand vous êtes venu ici, vous êtes arrivé dans quel état d'esprit, on va dire ?
+patient: Oui, c'est vrai que pour moi, l'autisme c'est un petit peu des enfants qui sont en institution, et ce serait un petit peu une catastrophe pour mon enfant, quoi.
+medecin: D'accord, donc ça vous inquiète quand même.
+medecin: Ok.
+medecin: Alors, en effet, il y a plusieurs, il y a plusieurs choses dans le comportement d'Alexandre qui peuvent faire penser à un diagnotic, un diagnostic, pardon, d'autisme, notamment les difficultés d'interaction avec les autres, le... le manque, on va dire, d'expression, des émotions, etc.
+medecin: Voilà, le fait qu'il préfère jouer tout seul, qu'il comprenne pas forcément le langage expressif des autres, etc.
+medecin: Donc ça, en effet, Le fait également qu'il soit, enfin qu'il ait besoin de sa routine et que quand quelque chose change, il se met tout de suite en colère, etc.
+medecin: Donc ça, en effet, c'est des diagnostics, enfin des éléments diagnostiques qui peuvent nous faire penser à un autisme et son âge, ça va bien avec... C'est à peu près l'âge auquel on commence à remarquer toutes ces choses-là et à pouvoir poser un diagnostic.
+medecin: Maintenant, les enfants qui sont autistes... Alors déjà, il y a plusieurs formes d'autisme.
+medecin: Et donc ça, après, il faudra qu'on fasse peut-être d'autres examens, que je vois Alexandre plus souvent pour voir un petit peu de quoi il... repose exactement, mais ce n'est pas forcément des enfants qui vivent en institution.
+medecin: On peut quand même, alors certes, ce sont des enfants avec qui il faut avoir plus de patience, qu'il faut comprendre parce que les réactions sont pas toujours celles auxquelles on peut s'attendre, et on peut pas traiter un enfant autiste de la même manière qu'un enfant, on va dire, qui n'est pas autiste, mais il peut très bien, voilà, continuer à vivre en société, à aller à l'école normalement, et c'est d'ailleurs l'objectif principal, c'est qu'il soit le plus possible inclus avec les enfants de son âge, qui ont pas forcément d'autisme, mais... Mais voilà, on va pas, enfin, il faut essayer de le garder un maximum en société, on va dire, et on va tout faire pour. 
+medecin: Voilà, donc ça c'était votre inquiétude par rapport à l'institutionnalisation.
+medecin: Est-ce qu'il y avait d'autres choses qui vous inquiétaient ?
+patient: Au moins, on sait ce qu'on sait.
+patient: Enfin, on sait ce que c'est déjà, maintenant.
+medecin: Ouais
+patient: C'est génétique ?
+medecin: Alors, c'est pas génétique à proprement parler.
+medecin: Y a pas, voilà c'est pas, ça se transmet pas.
+medecin: Voilà, c'est pas vous qui avez quelque chose dans votre ADN ou la maman.
+medecin: C'est comme ça.
+medecin: On n'a pas exactement d'explication sur la cause de l'autisme.
+medecin: Vous prévoyez peut-être d'avoir d'autres enfants ?
+patient: Euh bah oui.
+medecin: Ou vous en avez d'autres ?
+patient: c'est le premier.
+patient: mais du coup si on a d'autres enfants ils seront aussi autistes ?
+medecin: Alors pas forcément.
+medecin: c'est pas parce que vous avez un enfant qui est atteint d'autisme que les autres le seront forcément.
+medecin: ça veut pas dire qu'ils le seront pas.
+medecin: on peut pas savoir.
+medecin: mais c'est pas quelque chose qui se transmet comme ça.
+medecin: voilà est-ce que enfin comment vous acceptez ce que je viens de vous dire?
+medecin: est-ce que ça va?
+medecin: est-ce que comment vous ressentez les choses là actuellement? Parce que vous...
+patient: Au moins, on va pouvoir adapter les traitements maintenant.
+medecin: D'accord, alors, il n'y a pas forcément de traitement médicamenteux pour l'autisme, d'accord ?
+medecin: C'est... des thérapies, essayer de faire en sorte de mettre l'enfant dans un environnement qui lui convient, adapter vos réactions aux siennes, essayer voilà de travailler avec des psychologues, des psychiatres, des orthophonistes, ce genre de choses.
+medecin: Il n'y a pas forcément de traitement médicamenteux.
+medecin: Il va falloir faire avec, on va dire, mais ça n'empêche pas de vivre, d'avoir un autisme, d'accord ?
+medecin: Si jamais vous voulez, je peux vous proposer de voir un psychologue si vous avez besoin.
+medecin: ou des associations aussi de parents d'autres enfants autistes pour que vous voyez que qu'on peut vivre comme ça et que aussi ils peuvent vous donner des conseils parce que nous on est côté médical et côté social on va dire.
+medecin: ça peut être intéressant aussi d'avoir des aides là dessus si ça peut aussi vous rassurer.
+medecin: Voilà, je ne sais pas si vous avez d'autres questions, si vous voulez qu'on se revoie peut-être pour en discuter une fois que... Est-ce que vous voulez que je... qu'on se revoie avec votre conjoint peut-être?
+patient: Oui.
+medecin: Votre conjointe, pardon, pour que j'en parle avec elle, ou est-ce que vous souhaitez lui dire vous-même qu'on se revoit après ?
+patient: Je peux refaire une consultation, oui.
+medecin: Ok.

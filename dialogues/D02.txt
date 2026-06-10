@@ -1,0 +1,152 @@
+[0:01] medecin: Alors bonjour, moi je suis le docteur Ecosse, je suis l'interne.
+[0:08] medecin: Est-ce que vous pouvez me donner votre nom, prénom, date de naissance ?
+[0:11] patient: Oui, bonjour docteur, je suis Julie Dupont et je suis née en janvier 2002, le 5.
+[0:18] medecin: D'accord, ok.
+[0:18] medecin: Est-ce que vous pouvez me dire qu'est-ce qui vous amène aujourd'hui ?
+[0:22] patient: Ah bah je sais pas, moi je vais très bien, je sais pas pourquoi je suis là aujourd'hui.
+[0:26] medecin: D'accord, ok. Je vois dans les petites transmissions que c'est votre maman qui vous a amené, c'est ça ?
+[0:33] patient: Bah oui c'est ça, elle attend là, mais là ça me saoule un peu, j'aimerais bien rentrer chez moi, enfin je vais bien donc je comprends pas.
+[0:40] medecin: Ok, oui comment vous, pour vous il n'y a pas de soucis ?
+[0:46] medecin: Vous allez bien ?
+[0:47] medecin: Vous n'avez pas de douleurs quelque part ?
+[0:51] medecin: Ce genre de choses ?
+[0:51] patient: Ah non, moi j'ai aucun symptôme.
+[0:54] patient: Je n'ai jamais été aussi bien en fait.
+[0:56] medecin: D'accord.
+[0:57] medecin: Vous pouvez développer un petit peu ?
+[0:58] medecin: Qu'est-ce que ça veut dire ?
+[0:59] medecin: Parce que j'ai vu que votre maman, elle m'a dit que... Ce matin, vous lui avez expliqué que vous aviez un plan pour réformer le monde et vous faire à l'image de lui pour Dieu.
+[1:02] patient: Ce matin, vous lui avez expliqué que vous aviez un plan pour réformer le monde et vous faire à l'image de Dieu.
+[1:11] medecin: Je ne sais pas ce que ça veut dire.
+[1:11] patient: Oui.
+[1:12] medecin: Sais pas ce que ça veut dire.
+[1:12] patient: En fait, il y a une semaine, j'ai eu, si vous voulez, une révélation.
+[1:16] medecin: D'accord.
+[1:17] patient: J'ai compris que j'étais un commercial exceptionnel et j'ai une mission.
+[1:21] medecin: D'accord.
+[1:22] patient: J'ai une mission par Dieu, si vous voulez, je vais être une sorte de prophète.
+[1:28] medecin: D'accord, ok.
+[1:29] patient: Et je vais changer le monde.
+[1:31] medecin: D'accord, ok.
+[1:33] medecin: Donc c'est il y a une semaine que vous avez eu une révélation, ok.
+[1:36] medecin: Je vais commencer par vous poser des petites questions un peu plus générales sur vous, si vous avez des soucis de santé, etc.
+[1:43] medecin: Est-ce que vous avez des soucis de santé ?
+[1:45] patient: bah écoutez j'ai pas de ...
+[1:50] medecin: Vous êtes là ?
+[1:50] patient: Je n'ai pas de soucis de santé.
+[1:52] medecin: D'accord, ok.
+[1:53] medecin: Vous ne prenez pas de médicaments tous les jours ?
+[1:54] patient: Non, je ...
+[1:58] medecin: Vous entendez quelqu'un d'autre que moi qui vous parle là ?
+[2:02] patient: Oui j'entends là des gens.
+[2:02] medecin: D'accord, ils vous disent quoi ?
+[2:05] patient: Ils me disent que je suis exceptionnelle.
+[2:06] medecin: D'accord, ok.
+[2:08] medecin: Donc pas de traitement tous les jours ?
+[2:10] patient: Non, non.
+[2:10] medecin: Est-ce que vous consommez du tabac, de l'alcool ?
+[2:13] patient: Oui.
+[2:14] medecin: Vous fumez ?
+[2:16] patient: Oui.
+[2:16] medecin: Donc combien de cigarettes par jour à peu près ?
+[2:18] patient: Je fume un paquet par jour.
+[2:20] medecin: Oui, ça fait combien de temps ?
+[2:21] patient: Depuis 10 ans.
+[2:23] medecin: D'accord, ok.
+[2:27] medecin: Vous buvez de l'alcool ?
+[2:29] patient: Ça m'arrive.
+[2:29] medecin: Oui, occasionnellement ?
+[2:31] patient: Oui, le week-end.
+[2:32] medecin: D'accord, ok.
+[2:33] medecin: Est-ce que vous prenez des drogues, des substances illicites ?
+[2:37] patient: Je fume du cannabis, oui.
+[2:38] medecin: Oui. 
+[2:38] medecin: Juste du cannabis ? Pas de cocaïne, de l'héroïne?
+[2:39] patient: Oui, juste du cannabis, non.
+[2:43] medecin: D'accord, ok.
+[2:44] medecin: Vous faites quoi dans la vie ?
+[2:46] patient: Je suis commerciale.
+[2:47] medecin: D'accord, commerciale dans quoi ?
+[2:50] patient: Commerciale dans une entreprise.
+[2:52] medecin: D'accord, ok.
+[2:57] medecin: Vous parlez à qui là ?
+[2:59] patient: Bah moi, ouais je me parle.
+[2:59] medecin: Vous vous parlez à vous ?
+[3:01] patient: Oui, je me parle.
+[3:02] medecin: Ok, d'accord, d'accord.
+[3:03] medecin: Donc c'est votre maman qui vous a amené, est-ce qu'elle vous a dit des choses ?
+[3:09] medecin: Est-ce qu'elle a des craintes par rapport à la raison pour laquelle elle vous a amené ?
+[3:15] medecin: Est-ce qu'elle vous a parlé de tout ça ou pas ?
+[3:18] patient: Je ne sais pas, elle me saoule un petit peu, elle me ramène ici, elle est un peu chiante, elle me saoule.
+[3:23] medecin: Ouais d'accord. Et au travail, ça se passe comment ?
+[3:24] medecin: Est-ce que vous entendez aussi les voix un peu comme ça au travail?
+[3:26] patient: Ah oui, j'entends tout le temps.
+[3:28] medecin: Mais depuis une semaine seulement ou ça fait plus longtemps que ça ?
+[3:31] patient: Ah non, ça fait une semaine.
+[3:32] medecin: D'accord.
+[3:32] medecin: Et ça vous était déjà arrivé d'entendre des gens comme ça vous parler ?
+[3:36] patient: Non, non, non.
+[3:37] medecin: D'accord.
+[3:37] medecin: Est-ce qu'il y a une semaine, il y a eu quelque chose de particulier ?
+[3:39] medecin: Est-ce que vous avez eu, je ne sais pas, quelque chose qui aurait pu vous traumatiser ou une mauvaise nouvelle, ce genre de choses ?
+[3:48] patient: Non, mais c'est vrai que j'ai beaucoup fumé la semaine dernière.
+[3:52] medecin: D'accord, ok.
+[3:52] patient: Beaucoup de cannabis.
+[3:54] medecin: Ouais, d'accord.
+[3:56] medecin: Ok, je ne sais pas combien de temps il me reste.
+[3:58] patient: Désolée ... .
+[4:00] medecin: Ce n'est pas grave sinon.
+[4:01] patient: Vas-y, continue, je t'en prie.
+[4:05] medecin: Alors, alors, qu'est-ce que je peux demander de plus ? Vous avez du mal à dormir ?
+[4:14] medecin: Est-ce qu'il y a des moments où vous êtes... Est-ce que vous vous sentez très exaltée, que vous sentez que justement vous n'avez pas besoin de beaucoup dormir ?
+[4:21] medecin: Ou vous dormez normalement ?
+[4:21] patient: Non, ça va.
+[4:22] medecin: L'alimentation aussi, ça va ?
+[4:24] medecin: Vous mangez normalement ?
+[4:25] medecin: Vous n'avez pas senti que vous aviez une grosse perte d'appétit ?
+[4:28] patient: Non.
+[4:28] medecin: Ok.
+[4:29] medecin: Euh... Ok.
+[4:33] medecin: Donc c'est Dieu qui vous envoie pour réformer le monde.
+[4:34] patient: Oui, c'est ça.
+[4:34] medecin: D'accord, ok.
+[4:34] medecin: Je ne sais pas si vous avez des allergies, si vous avez déjà été opérée.
+[4:36] medecin: Vous êtes toujours là ?
+[4:36] medecin: Oui, c'est ça.
+[4:37] patient: Non, non, je n'ai jamais été opérée, je n'ai pas d'allergie.
+[4:38] medecin: Ok, d'accord.
+[4:58] medecin: Je réfléchis si j'ai d'autres questions à vous poser.
+[5:01] medecin: Dans votre famille, est-ce qu'il y a des soucis de santé, notamment psychiatriques, de la dépression, ce genre de choses ?
+[5:09] patient: Écoutez, mon grand-père était bipolaire et là, il est décédé il y a deux mois.
+[5:11] medecin: D'accord.
+[5:18] medecin: Et ça vous fait rire ?
+[5:20] patient: Oui.
+[5:20] medecin: Pourquoi ça vous fait rire ?
+[5:21] patient: C'est drôle.
+[5:22] medecin: Ah oui ?
+[5:23] medecin: C'est drôle que votre grand-père soit décédé ?
+[5:24] patient: Oui.
+[5:26] medecin: D'accord, ok.
+[5:28] medecin: Donc il était bipolaire.
+[5:30] medecin: Et vous, vous n'avez pas d'antécédent de dépression ?
+[5:33] patient: Non, je n'ai pas, non.
+[5:35] medecin: D'accord, ok.
+[5:37] medecin: Du coup, je vais appeler mon chef et puis on reviendra vers vous plus tard.
+[5:42] medecin: Je vous laisse patienter un petit peu, si ça vous va.
+[5:45] patient: D'accord, ok.
+[5:45] medecin: Ok.
+[5:48] medecin: Donc, j'appelle mon chef.
+[5:51] medecin: Donc bonjour, je suis l'interne de garde aux urgences.
+[5:54] medecin: Je viens de voir, donc...
+[5:56] medecin: Je n'ai pas retenu le nom, désolée.
+[5:59] medecin: Une patiente de 22 ans qui a été adressée par sa mère, par sa mère, pardon, par sa maman.
+[6:06] medecin: Elle nous a expliqué que ça faisait une semaine à peu près qu'elle parlait de réformer le monde, que c'est Dieu qui l'avait envoyé.
+[6:15] medecin: Et donc là, je vois la patiente qui est très… qui, pour elle, tout va bien, qui me dit que oui, depuis une semaine, elle entend des voix de personnes qui lui parlent, qui lui disent qu'elle est formidable.
+[6:32] medecin: Donc, au niveau du contexte, elle avait fumé... Donc, ça fait une semaine, et la semaine précédente, elle avait fumé beaucoup de cannabis.
+[6:40] medecin: C'est une personne qui fume du tabac et aussi qui boit de l'alcool de manière occasionnelle.
+[6:44] medecin: Elle n'a pas de soucis de santé.
+[6:45] medecin: Elle a un antécédent de bipolarité chez son grand-père qui est décédé il y a deux mois.
+[6:50] medecin: Et au niveau de ses symptômes, c'est donc une patiente qui a un peu des rires immotivés, des réactions qui ne sont pas appropriées à la situation.
+[7:01] medecin: Par exemple, quand elle m'a dit que son grand-père était décédé, elle s'est mise à rire et me dire qu'elle trouvait ça très drôle.
+[7:08] medecin: Elle a aussi des barrages, donc elle se met à parler, puis d'un seul coup, elle s'arrête et elle regarde ailleurs.
+[7:15] medecin: Voilà, des troubles de l'attention.

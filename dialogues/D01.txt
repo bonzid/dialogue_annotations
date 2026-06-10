@@ -1,0 +1,52 @@
+[00:10] medecin: Bonjour Madame Dumont, je suis le docteur remplaçant du docteur Février. Je vois dans votre dossier que vous aviez consulté il y a deux semaines pour une lombalgie aiguë.
+[00:31] patient: Bonjour docteur, je viens vous voir parce qu'il faut que vous me prolongiez mon arrêt de travail, j'ai eu un lumbago il y presque deux semaines. J'avais vu le docteur FEVRIER et il m'a mis en arrêt jusqu'à hier. Mais là c'est difficile, je ne peux pas y retourner. Ça commence à aller mieux et j'ai peur que ça revienne.
+[00:40] medecin: Je comprends votre inquiétude. Pour commencer, sur une échelle de 0 à 10, comment évalueriez-vous votre douleur aujourd'hui par rapport à il y a deux semaines ?
+[00:48] patient: La douleur a bien diminué. En général, c'est un petit fond douloureux à 1/10, mais ça peut monter à 4/10 par moments.
+[00:57] medecin: C'est une évolution plutôt positive. Est-ce que vous avez eu l'impression que le traitement prescrit par le docteur Février vous a réellement soulagée au quotidien ?
+[01:06] patient: Oui, ça m'a aidée au début, mais j'ai fini les anti-inflammatoires. Maintenant, je ne prends plus que du paracétamol de temps en temps.
+[01:16] medecin: Je comprends. Au-delà de la douleur physique, comment se passe votre retour au travail en perspective, est-ce que vous vous sentez à l'aise dans votre environnement professionnel actuel ?
+[01:26] patient: C'est compliqué. Avec le manque de personnel et mon cadre qui me sollicite tout le temps, j'ai vraiment peur que mon dos lâche à nouveau si je reprends.
+[01:37] medecin: Je comprends tout à fait votre appréhension face à cette charge de travail. Avez-vous déjà eu l'occasion d'évoquer ces difficultés relationnelles ou vos problèmes de dos avec le médecin du travail ?
+[01:46] patient: J'avais vu le médecin du travail il y a 18 mois pour mon dos, mais je n'avais pas parlé de mes problèmes avec mon cadre à l'époque.
+[01:53] medecin: Et depuis cette consultation, avez-vous eu l'occasion de le recontacter pour faire le point sur votre situation actuelle ?
+[01:57] patient: Non, je n'ai pas repris contact avec la médecine du travail depuis.
+[02:08] medecin: D'accord, je comprends. Pour mieux comprendre votre quotidien professionnel, pouvez-vous me décrire vos tâches habituelles : est-ce que votre poste implique beaucoup de manutention de charges ou une station debout prolongée ?
+[02:17] patient: Je suis aide-soignante, donc je suis debout toute la journée et je dois souvent porter des patients, même si on a du matériel pour nous aider.
+[02:26] medecin: D'accord, je vois. Et concernant ces aides techniques à la manutention, sont-elles toujours disponibles et en état de marche lorsque vous en avez besoin ?
+[02:33] patient: Oui, on a des lits électriques et des lève-personnes, mais on ne les utilise pas toujours par manque de temps.
+[02:43] medecin: Je comprends, c'est une situation difficile. En dehors de ce problème de dos, avez-vous d'autres antécédents médicaux ou des traitements en cours pour d'autres pathologies ?
+[02:49] patient: Non, je n'ai aucun autre problème de santé et je ne prends que du paracétamol pour mon dos.
+[02:56] medecin: C'est noté. Et pour mieux comprendre votre environnement global, pourriez-vous me dire quelle est votre situation familiale actuelle ?
+[03:03] patient: Je suis mariée et j'ai deux enfants, mais c'est compliqué en ce moment car nous sommes en cours de divorce.
+[03:19] medecin: Je suis désolé d'apprendre que vous traversez une période personnelle aussi éprouvante, cela doit peser lourdement sur votre moral en plus de vos douleurs physiques. Est-ce que cette situation familiale a un impact sur votre capacité à vous reposer ou à gérer votre quotidien en dehors du travail ?
+[03:27] patient: Oui, c'est très dur. J'ai du mal à m'endormir et je me réveille souvent la nuit à cause de tous ces soucis.
+[03:43] medecin: Je comprends que cette période soit particulièrement éprouvante pour vous, tant sur le plan physique que psychologique. Pour envisager une reprise dans les meilleures conditions, seriez-vous favorable à ce que nous sollicitions une visite de pré-reprise auprès du médecin du travail afin d'évaluer des aménagements de poste ?
+[03:51] patient: Pourquoi pas, si ça peut m'aider à ne pas me refaire mal, mais je ne sais pas trop comment ça se passe.
+[04:06] medecin: C'est une démarche très simple que nous pouvons initier ensemble, mais avant cela, j'aimerais savoir si vous ressentez toujours des douleurs qui descendent dans vos jambes, comme une sciatique ou une cruralgie, ou si la douleur reste strictement localisée au niveau de votre dos ?
+[04:12] patient: Non, je n'ai pas de douleur dans les jambes, ça reste vraiment localisé dans le bas du dos.
+[04:20] medecin: Très bien, c'est rassurant. Pourriez-vous me préciser quel est votre métier exact et dans quel type de structure vous exercez ?
+[04:23] patient: Je suis aide-soignante en pédiatrie depuis l'âge de 20 ans.
+[04:33] medecin: C'est noté. En dehors de ces difficultés de sommeil que vous avez mentionnées, vous sentez-vous particulièrement anxieuse ou avez-vous l'impression de traverser un état dépressif en ce moment ?
+[04:44] patient: Je me sens très stressée par tout ce qui se passe à la maison et au travail. Je n'ai plus vraiment envie de faire grand-chose, je passe mes journées sur le canapé.
+[05:04] medecin: Je comprends que vous vous sentiez épuisée et dépassée par ces événements, ce qui est tout à fait compréhensible au vu de votre situation. Pour vous aider à préparer votre retour au travail, seriez-vous d'accord pour que nous prenions rendez-vous avec le médecin du travail afin d'envisager une reprise progressive ou des aménagements adaptés à votre état actuel ?
+[05:10] patient: Oui, je suis d'accord pour voir le médecin du travail, ça me rassurerait pour la suite.
+[05:30] medecin: C'est une excellente initiative. Je tiens également à vous préciser qu'une reprise rapide de vos activités, même adaptée, fait partie intégrante de votre rétablissement pour éviter que la douleur ne s'installe. Compte tenu de votre épuisement actuel, je vous propose aussi de consulter un psychologue pour vous accompagner dans cette période difficile, seriez-vous ouverte à cette idée ?
+[05:36] patient: Oui, pourquoi pas, si ça peut m'aider à gérer tout ce stress, je suis prête à essayer.
+[05:51] medecin: C'est une très bonne chose, je vais vous orienter vers un confrère psychologue pour vous soutenir. Pour faire le point sur votre évolution et valider la mise en place de ces mesures, je vous propose de revenir me voir en consultation dans deux semaines.
+[05:58] patient: D'accord docteur, je reviendrai vous voir dans deux semaines. Merci beaucoup pour votre aide, au revoir.
+[06:09] medecin: Je vous en prie, prenez bien soin de vous d'ici là et n'hésitez pas à contacter le secrétariat si vous avez la moindre question avant notre prochain rendez-vous. Au revoir, Madame Dumont.
+[06:11] patient: Au revoir docteur, merci encore.
+[06:14] medecin: Au revoir, Madame Dumont, bon courage pour vos démarches.
+[06:16] patient: Merci, au revoir.
+[06:19] medecin: Au revoir, Madame Dumont, prenez bien soin de vous.
+[06:21] patient: Au revoir, merci.
+[06:23] medecin: Au revoir, Madame Dumont.
+[06:24] patient: Au revoir, docteur.
+[06:26] medecin: Au revoir, Madame Dumont.
+[06:28] patient: Au revoir, docteur.
+[06:30] medecin: Au revoir, Madame Dumont.
+[06:31] patient: Au revoir, docteur.
+[06:33] medecin: Au revoir, Madame Dumont.
+[06:35] patient: Au revoir, docteur.
+[07:00] medecin: Nous avons convenu d'une stratégie de retour au travail incluant une visite de pré-reprise auprès du médecin du travail pour envisager des aménagements de poste, tout en soulignant l'importance d'une reprise d'activité pour votre rétablissement. Par ailleurs, je vous ai orientée vers un psychologue pour vous accompagner face à votre épuisement et au stress lié à votre situation personnelle. Nous ferons le point sur l'évolution de votre état lors d'une nouvelle consultation dans deux semaines.
+[07:04] patient: C'est entendu, merci beaucoup docteur. Au revoir.

@@ -1,0 +1,64 @@
+[0:19] medecin: Donc bonjour, je suis le docteur Février, je suis le remplaçant du médecin généraliste. Vous pouvez juste nous rappeler nom, prénom, date de naissance s'il vous plaît.
+[0:27] patient: Bonjour, je m'appelle Frédérique Dumont et j'ai 42 ans.
+[0:29] medecin: Et qu'est-ce qui vous amène?
+[0:30] patient: Alors, je viens parce que j'aimerais que vous me prolongiez mon arrêt de travail. Ça fait... Donc, j'ai eu un lumbago il y a deux semaines. Et le docteur Février, que vous remplacez, il m'a mis en arrêt jusqu'à hier. Mais là, c'est difficile. Je ne veux pas y retourner parce que ça commence à aller mieux. J'ai peur que ça revienne.
+[0:46] medecin: Ok, c'était au travail?
+[0:50] patient: Oui.
+[0:50] medecin: C'était un accident de travail? Oui. Ok, vous faites quoi comme travail?
+[0:54] patient: Je suis aide-soignante en pédiatrie.
+[0:56] medecin: Ok, donc vous soulevez des enfants,
+[0:58] patient: Oui.
+[0:58] medecin: c'était comme ça que vous étiez fait.
+[1:00] patient: Non, j'ai ramassé un drap par terre et je me suis bloquée le dos.
+[1:02] medecin: Ok, et donc là ça va mieux ?
+[1:08] patient: Oui, ça va mieux, oui.
+[1:09] medecin: Vous avez bien pris paracétamol anti-inflammatoire? Ok,
+[1:13] patient: Oui. Là, je prends encore du paracétamol et j'ai fini les AINS.
+[1:17] medecin: OK. Et vous avez encore mal à des moments dans la journée?
+[1:21] patient: Oui, j'ai quand même... La grosse douleur du début, elle a bien diminué, mais j'ai quand même encore mal, quoi.
+[1:26] medecin: Vous avez mal à combien sur 10?
+[1:28] patient: Il y a un fond à 1 sur 10 et il y a parfois des moments un peu plus douloureux à 4 sur 10.
+[1:34] medecin: Ok, et c'est soulagé par le paracétamol?
+[1:38] patient: Oui.
+[1:39] medecin: Ok. Ok, et donc vous, vous pensez que vous ne pouvez pas retourner au travail?
+[1:46] patient: C'est vraiment que j'ai peur d'avoir mal si je reprends, quoi.
+[1:50] medecin: Ok. Ça se passe bien au travail avec les collègues?
+[1:53] patient: Avec les collègues, oui, ça se passe bien. Bon après, il y a du manque de personnel, donc c'est un peu compliqué, mais sinon, on s'entraide.
+[1:58] medecin: Ok. Vous n'avez pas de conflit avec votre employeur ou avec l'assurance maladie?
+[2:03] patient: Pas avec l'assurance maladie, mais c'est vrai qu'avec l'employeur, c'est compliqué. Enfin, avec le nouveau cadre, surtout, c'est compliqué parce qu'il ne m'a pas soutenue pour passer sur le poste d'horaire de jour en HDJ, qui s'est libérée. Et je trouve qu'il me sollicite plus que les autres, par exemple, sur les plannings et tout. J'ai l'impression d'être un peu défavorisée, quoi.
+[2:17] medecin: Ok. Ok, donc vous avez un peu de conflit avec l'employeur et... Mais sinon le reste ça se passe bien? Vous avez l'impression que vous pouvez évoluer dans votre travail? Ou vous avez l'impression que vous êtes un peu coincé?
+[2:32] patient: Je pense que je peux évoluer.
+[2:33] medecin: Ok. Vous aimez bien aller au travail quand même? Ok.
+[2:37] patient: Oui.
+[2:37] medecin: Et d'habitude vous êtes un peu stressé, un peu anxieuse?
+[2:42] patient: Oui, je suis un peu stressée avec le travail, oui, notamment.
+[2:45] medecin: Ok. Et vous avez l'impression, là par exemple pour votre douleur au dos, vous avez l'impression que c'est grave? Que vous allez pas vous en sortir?
+[2:53] patient: Non, je n'ai pas l'impression que c'est grave, non.
+[2:54] medecin: Non? Non. Mais vous êtes un peu... Ok. Ok. Vous arrivez quand même à vous mobiliser?
+patient: Oui.
+medecin: Et puis il n'y avait pas eu de problème pour la marche? Pas d'incontinence urinaire ou d'incontinence fécale? Non. Rien de tout ça. Ok. Parce qu'en fait là, en fait avec les lombalgies comme vous avez, ça s'améliore en bougeant.
+[3:39] patient: OK.
+[3:40] medecin: Vous ne pouvez pas rester non plus trop chez vous, parce que chez vous vous faisiez quoi?
+[3:44] patient: Rien. Je passe ma journée devant la télé.
+[3:46] medecin: Voilà. Parce qu'en fait ça, ça n'améliore pas les lombalgies. C'est sûr, il faut continuer de se mobiliser, il ne faut pas avoir peur de se mobiliser. Bien sûr, de ne pas porter des charges très lourdes, etc. Mais il faut se mobiliser pour faire passer la douleur. Donc en fait, si je poursuis votre arrêt de travail, vous allez rester chez vous. Donc après, la douleur, enfin les lombalgies, elles s'installent. Le mieux, c'est de retourner au travail et à la limite d'adapter un peu le poste de travail. Donc peut-être voir avec un médecin du travail pour adapter votre poste pour moins porter de charge ou à la limite changer de poste, etc. Essayez de bien, par exemple, si vous devez souvent porter des choses, essayez de bien vous baisser le dos droit. ne pas demander de l'aide pour les déplacements des patients, ne
+[4:51] patient: Avec les sous-effectifs, c'est compliqué, mais oui.
+[4:55] medecin: pas négliger les pauses, si c'est possible. Voilà. Est-ce que vous avez des questions?
+[5:05] patient: Non, je préférerais attendre encore pour avoir un arrêt de travail. Mais... Ce que je vous dis, j'ai peur d'avoir mal, que ça continue, si je reprends, quoi.
+[5:15] medecin: Ok, mais parce que là, c'est quand même bien soulagé, les douleurs. Donc
+[5:21] patient: Oui en vrai.
+[5:22] medecin: il n'y a pas de raison que ça s'aggrave en retournant au travail. Au contraire, en bougeant, même vous, en faisant de l'activité physique. Je ne sais pas si vous faites du sport.
+[5:36] patient: Non, là, ça fait 10 ans que je ne fais plus rien. Je faisais du judo.
+[5:39] medecin: Si vous pouvez essayer de reprendre 10-150 minutes d'activité modérée par semaine ou 75 minutes d'activité intense, ça fait à peu près 30 minutes, 5 fois par semaine. Est-ce que vous connaissez votre poids et votre taille?
+[5:53] patient: Oui, je fais 1m68 et 85 kilos, je crois.
+[5:57] medecin: Donc vous êtes un peu en surpoids, voire obèse. Ça, ça peut aussi participer aux douleurs du dos. Donc si jamais, vous pouvez essayer de perdre un petit peu de poids.
+[6:07] patient: Oui.
+[6:07] medecin: On peut vous proposer aussi une prise en charge avec un nutritionniste. Aussi, l'activité physique et éviter la sédentarité. Donc la sédentarité, c'est le temps passé assis, allongé, à rien faire. Donc ça, essayer de vous lever quelques minutes, toutes les heures. Ouais, la perte de poids. Donc l'adaptation du travail, si jamais... Et si jamais, c'est vraiment pas possible que tout s'installe, c'est possible de changer de poste, vu que c'était un accident de travail.
+[6:44] patient: OK.
+[6:44] medecin: Ou même, enfin, il n'y aura pas d'impact sur votre salaire quoi.
+[6:52] patient: OK.
+[6:56] medecin: Voilà, après, je ne vais pas vous reconduire l'arrêt de travail. Je peux vous laisser du paracétamol si besoin. Donc vous proposez la prise en charge avec un nutritionniste si vous voulez. et si vous êtes anxieuse, tout ça, peut-être une prise en charge psychologique. Et voilà, si vous voulez, on peut reprendre un rendez-vous pour plus tard. Et dans tous les cas, si vous avez un problème, vous pouvez rappeler ou revenir.
+[7:26] patient: OK.
+[7:26] medecin: Ça marche?
+[7:27] patient: Ça marche.
+[7:27] medecin: Bonne journée.
+[7:28] patient: Merci, vous aussi. 
